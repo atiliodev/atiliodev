@@ -7,12 +7,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ```yaml
 - 💻 Desenvolvedor de Software
 - 🌐 Stack: Full-Stack
-- 🔧 Ferramentas: [JavaScript, TypeScript, React, Node.js, Python, Docker, Kubernetes]
+- 🔧 Ferramentas: [Unity Engine, CSharp, JavaScript, Node.js, Python, React]
 - 📚 Estudando: [Machine Learning, DevOps]
-- 🌱 Interesse: Desenvolvimento sustentável e tecnologias verdes
-- 📫 Contato: atiliodev@example.com
 ```
-
+<!--
 ## Projetos Destacados
 
 ### [Projeto 1](https://github.com/atiliodev/projeto1)
@@ -30,7 +28,8 @@ Descrição breve do projeto 2. Explicação sobre o que ele faz, tecnologias us
 
 - [Artigo 1](https://meublog.com/artigo1): Resumo do artigo 1.
 - [Artigo 2](https://meublog.com/artigo2): Resumo do artigo 2.
-
+ -->
+ 
 ## Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/atiliodev)
