@@ -10,26 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔧 Ferramentas: [Unity Engine, CSharp, JavaScript, Node.js, Python, React]
 - 📚 Estudando: [Machine Learning, DevOps]
 ```
-<!--
-## Projetos Destacados
 
-### [Projeto 1](https://github.com/atiliodev/projeto1)
-Descrição breve do projeto 1. Explicação sobre o que ele faz, tecnologias usadas e principais funcionalidades.
-
-### [Projeto 2](https://github.com/atiliodev/projeto2)
-Descrição breve do projeto 2. Explicação sobre o que ele faz, tecnologias usadas e principais funcionalidades.
-
-## Contribuições
-
-- **[Repositório Open Source 1](https://github.com/opensource1)**: Descrição da contribuição.
-- **[Repositório Open Source 2](https://github.com/opensource2)**: Descrição da contribuição.
-
-## Blog
-
-- [Artigo 1](https://meublog.com/artigo1): Resumo do artigo 1.
-- [Artigo 2](https://meublog.com/artigo2): Resumo do artigo 2.
- -->
- 
 ## Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/atiliodev)
